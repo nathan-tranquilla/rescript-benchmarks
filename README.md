@@ -20,16 +20,6 @@ Alternatively, ensure Ruby and Node.js are installed with the versions above.
 rake benchmark
 ```
 
-### Generate Custom Test Data
-```bash
-# Generate with custom module/package counts
-rake generate[1000,10]    # 1000 modules across 10 packages
-rake generate[5000,20]    # 5000 modules across 20 packages
-
-# Or use the script directly
-node generate.js 2000 15  # 2000 modules, 15 packages
-```
-
 ### Individual Tasks
 ```bash
 rake build_ts     # Build TypeScript project
