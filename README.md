@@ -19,20 +19,3 @@ Alternatively, ensure Ruby and Node.js are installed with the versions above.
 ```bash
 rake benchmark
 ```
-
-### Individual Tasks
-```bash
-rake build_ts     # Build TypeScript project
-rake build_res    # Build ReScript project
-rake clean        # Clean all build artifacts
-rake reset        # Clean and regenerate test data
-```
-
-## Benchmark Configurations
-
-The benchmark tests multiple scenarios:
-- **1000 modules, 10 packages** - Baseline comparison
-- **2000 modules, 10 packages** - Module scaling test
-- **5000 modules, 10 packages** - Large-scale test
-
-Each configuration runs 3 clean build trials and reports averages.
