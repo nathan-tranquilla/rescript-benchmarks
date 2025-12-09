@@ -1,0 +1,11 @@
+{
+  "name": "rescript-bench",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  }
+}

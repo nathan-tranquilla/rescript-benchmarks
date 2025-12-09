@@ -1,0 +1,17 @@
+{
+  "name": "rescript-project",
+  "version": "1.0.0",
+  "description": "ReScript project",
+  "main": "lib/js/src/Index.bs.js",
+  "scripts": {
+    "build": "rescript build",
+    "clean": "rescript clean",
+    "dev": "rescript build -w"
+  },
+  "dependencies": {
+    "rescript": "^12.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

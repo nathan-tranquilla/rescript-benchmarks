@@ -1,0 +1,35 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./src/pkg0"
+    },
+    {
+      "path": "./src/pkg1"
+    },
+    {
+      "path": "./src/pkg2"
+    },
+    {
+      "path": "./src/pkg3"
+    },
+    {
+      "path": "./src/pkg4"
+    },
+    {
+      "path": "./src/pkg5"
+    },
+    {
+      "path": "./src/pkg6"
+    },
+    {
+      "path": "./src/pkg7"
+    },
+    {
+      "path": "./src/pkg8"
+    },
+    {
+      "path": "./src/pkg9"
+    }
+  ]
+}

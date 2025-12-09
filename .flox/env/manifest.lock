@@ -1,0 +1,263 @@
+{
+  "lockfile-version": 1,
+  "manifest": {
+    "version": 1,
+    "install": {
+      "nodejs": {
+        "pkg-path": "nodejs"
+      },
+      "ruby": {
+        "pkg-path": "ruby"
+      }
+    },
+    "hook": {},
+    "profile": {},
+    "options": {}
+  },
+  "packages": [
+    {
+      "attr_path": "nodejs",
+      "broken": false,
+      "derivation": "/nix/store/x9g1nm5wwc7bycyw0q9k8fl03brz5yar-nodejs-22.21.1.drv",
+      "description": "Event-driven I/O framework for the V8 JavaScript engine",
+      "install_id": "nodejs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "nodejs-22.21.1",
+      "pname": "nodejs",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T02:55:09.242165Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "22.21.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/bkir3agnj2cvpx80a0z1lj50pg2dhddi-nodejs-22.21.1-dev",
+        "libv8": "/nix/store/ivbmw7d10pxzkrz5397bimhqwwlrc8gp-nodejs-22.21.1-libv8",
+        "out": "/nix/store/92igwjsd6av0pg8dvygirhdwahwq2sh7-nodejs-22.21.1"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "nodejs",
+      "broken": false,
+      "derivation": "/nix/store/07m9qkb2rvy59x90w3hi9nykdxf409x8-nodejs-22.21.1.drv",
+      "description": "Event-driven I/O framework for the V8 JavaScript engine",
+      "install_id": "nodejs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "nodejs-22.21.1",
+      "pname": "nodejs",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T03:05:00.838108Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "22.21.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/1akvaqvrp0cf6pd7mkqy7m3gnzc3wfd7-nodejs-22.21.1-dev",
+        "libv8": "/nix/store/ykj9hi9qv7gwxnbg2vh6ca00w9zsbhm0-nodejs-22.21.1-libv8",
+        "out": "/nix/store/hps7k16bd9isj7pfsjzg7q0wgvrw47kn-nodejs-22.21.1"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "nodejs",
+      "broken": false,
+      "derivation": "/nix/store/j1fpqmshmrxx52k2xqqrv5c718y6sjih-nodejs-22.21.1.drv",
+      "description": "Event-driven I/O framework for the V8 JavaScript engine",
+      "install_id": "nodejs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "nodejs-22.21.1",
+      "pname": "nodejs",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T03:15:07.364263Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "22.21.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/haa4773lz7wfhnql05181azh4z5141r7-nodejs-22.21.1-dev",
+        "libv8": "/nix/store/0pswqdxlx8y0v54gq0ixwps19agv6bds-nodejs-22.21.1-libv8",
+        "out": "/nix/store/wfjyiwara336j7r1v0ia3kib8779wzwf-nodejs-22.21.1"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "nodejs",
+      "broken": false,
+      "derivation": "/nix/store/wjimqspfnxjp5y11703a1rz75cbvj4ph-nodejs-22.21.1.drv",
+      "description": "Event-driven I/O framework for the V8 JavaScript engine",
+      "install_id": "nodejs",
+      "license": "MIT",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "nodejs-22.21.1",
+      "pname": "nodejs",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T03:24:38.027494Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "22.21.1",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "dev": "/nix/store/l1idqv7ff0m2kbcqnn1yr415wyga1wxf-nodejs-22.21.1-dev",
+        "libv8": "/nix/store/farc7vk89kr367hsx0qchmahf6i6sbk1-nodejs-22.21.1-libv8",
+        "out": "/nix/store/l85fis49agvp5q1ild1rfh4rrgmn92sr-nodejs-22.21.1"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/lzb75qdfw0583shfif1c2yb1am4271cg-ruby-3.3.10.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "ruby-3.3.10",
+      "pname": "ruby",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T02:56:12.288929Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.10",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/kxlcabp21a3zmyb1lsj4pfj1vl6m4fi1-ruby-3.3.10-devdoc",
+        "out": "/nix/store/8fi5vnxxc7yr8k8pijb1m7qd51vzjkcz-ruby-3.3.10"
+      },
+      "system": "aarch64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/qa5xzrfcjy3mj93v55l4glasl1kj6q1p-ruby-3.3.10.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "ruby-3.3.10",
+      "pname": "ruby",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T03:06:20.870347Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.10",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/51q3jfy5mdcnbjx1z4hlmf7dcfrqsw71-ruby-3.3.10-devdoc",
+        "out": "/nix/store/31slidil7sxsbcm1314fc2pkffkgffl7-ruby-3.3.10"
+      },
+      "system": "aarch64-linux",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/vng9b74dkd63bxyd7xdldivz8qyw2mx2-ruby-3.3.10.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "ruby-3.3.10",
+      "pname": "ruby",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T03:16:05.751406Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.10",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/isglp8h5nvvmqmsk55kcbg4ssgjv8iqf-ruby-3.3.10-devdoc",
+        "out": "/nix/store/3y7pvxd4lmsankh5f7nxf3xxc4jrs54f-ruby-3.3.10"
+      },
+      "system": "x86_64-darwin",
+      "group": "toplevel",
+      "priority": 5
+    },
+    {
+      "attr_path": "ruby",
+      "broken": false,
+      "derivation": "/nix/store/0kqxmmndbw0wrmwnp9ybg2v8qi6n0cag-ruby-3.3.10.drv",
+      "description": "Object-oriented language for quick and easy programming",
+      "install_id": "ruby",
+      "license": "Ruby",
+      "locked_url": "https://github.com/flox/nixpkgs?rev=f61125a668a320878494449750330ca58b78c557",
+      "name": "ruby-3.3.10",
+      "pname": "ruby",
+      "rev": "f61125a668a320878494449750330ca58b78c557",
+      "rev_count": 907002,
+      "rev_date": "2025-12-05T15:54:32Z",
+      "scrape_date": "2025-12-07T03:25:57.841727Z",
+      "stabilities": [
+        "unstable"
+      ],
+      "unfree": false,
+      "version": "3.3.10",
+      "outputs_to_install": [
+        "out"
+      ],
+      "outputs": {
+        "devdoc": "/nix/store/vlgfpddylv3895vgbds0d1mxlw8wry4v-ruby-3.3.10-devdoc",
+        "out": "/nix/store/l4ksh9h3278v5grh0vc9b1h7jc29p4rv-ruby-3.3.10"
+      },
+      "system": "x86_64-linux",
+      "group": "toplevel",
+      "priority": 5
+    }
+  ]
+}
